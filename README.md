@@ -17,6 +17,7 @@ i enjoy owning the whole thing, architecture to deployment to keeping it alive. 
 
 📫 **Reach me**
 - Email: work.abhishek1204@gmail.com
+- Email: abhishek.k@ucanly.com
 - LinkedIn: [abhishekk-ai](https://linkedin.com/in/abhishekk-ai)
 - Live product i built: [ucanly.io](https://ucanly.io)
 
