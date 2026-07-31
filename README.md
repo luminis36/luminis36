@@ -18,6 +18,6 @@ i enjoy owning the whole thing, architecture to deployment to keeping it alive. 
 📫 **Reach me**
 - Email: work.abhishek1204@gmail.com
 - LinkedIn: [abhishekk-ai](https://linkedin.com/in/abhishekk-ai)
-- Portfolio: [ucanly.io](https://ucanly.io)
+- Live product i built: [ucanly.io](https://ucanly.io)
 
 ⚡ **Fun fact:** i shipped a full multi-role platform before i had a single teammate. figured out each layer as i went.
